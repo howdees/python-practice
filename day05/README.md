@@ -31,7 +31,7 @@
 Из корневой папки проекта:
 
 ```powershell
-python -m venv .venv
+python -m pytest day05/ -v
 .\.venv\Scripts\Activate.ps1
 pip install -r day05/requirements.txt
 pip install -e day05
