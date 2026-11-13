@@ -1,0 +1,17 @@
+students = [
+    {"name": "Анна", "age": 20, "group": "Python-101", "grades": (5, 5, 4, 5)},
+    {"name": "Иван", "age": 22, "group": "Python-102", "grades": (4, 3, 5, 4)},
+    {"name": "Мария", "age": 19, "group": "Python-101", "grades": (5, 5, 5, 5)},
+    {"name": "Алексей", "age": 21, "group": "Python-103", "grades": (3, 4, 4, 5)},
+    {"name": "Ольга", "age": 23, "group": "Python-102", "grades": (4, 5, 4, 4)},
+    {"name": "Дмитрий", "age": 20, "group": "Python-103", "grades": (5, 4, 5, 5)},
+    {"name": "Елена", "age": 18, "group": "Python-101", "grades": (4, 4, 5, 5)},
+    {"name": "Иван", "age": 24, "group": "Python-102", "grades": (3, 4, 3, 4)},
+    {"name": "Сергей", "age": 22, "group": "Python-103", "grades": (5, 5, 4, 5)},
+    {"name": "Наталья", "age": 21, "group": "Python-101", "grades": (4, 5, 5, 4)},
+    {"name": "Павел", "age": 19, "group": "Python-102", "grades": (3, 4, 4, 3)},
+    {"name": "Мария", "age": 20, "group": "Python-103", "grades": (5, 4, 5, 5)},
+    {"name": "Кирилл", "age": 23, "group": "Python-101", "grades": (4, 4, 4, 5)},
+    {"name": "Татьяна", "age": 18, "group": "Python-102", "grades": (5, 5, 4, 5)},
+    {"name": "Роман", "age": 25, "group": "Python-103", "grades": (3, 3, 4, 4)},
+]
